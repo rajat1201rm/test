@@ -35,11 +35,11 @@ To deploy this project run
 
 ## Demo
 
-Select and Upload Files
-![](./ezgif.com-animated-gif-maker.gif)
+Select and Upload Files  <br />
+![](./ezgif.com-animated-gif-maker.gif) <br />
 
-Train Your Data and Wait for Processing
-![](./ezgif.com-animated-gif-maker(1).gif)
+Train Your Data and Wait for Processing \n  <br />
+![](./ezgif.com-animated-gif-maker(1).gif) <br />
 
-Ask Your Answer
+Ask Your Answer  <br />
 ![](./ezgif.com-speed.gif)
